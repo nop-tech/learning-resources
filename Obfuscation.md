@@ -1,15 +1,11 @@
 # Obfuscation Collection
 
 
-### Sci-Hub
-
-- [Multi-stage Binary Code Obfuscation Using Improved Virtual Machine](https://sci-hub.se/10.1007/978-3-642-24861-0_12)
-
-***
 ### Paper
 
 - [DynOpVm: VM-based Software Obfuscation with Dynamic Opcode Mapping](https://flyer.sis.smu.edu.sg/acns19.pdf)
 - [Enhance Virtual-Machine-Based Code Obfuscation Security Through Dynamic Bytecode Scheduling](https://eprints.lancs.ac.uk/id/eprint/89498/1/DSVMP_C_S.pdf)
+- [Multi-stage Binary Code Obfuscation Using Improved Virtual Machine](https://sci-hub.se/10.1007/978-3-642-24861-0_12)
 
 ***
 ### Github
