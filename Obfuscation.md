@@ -1,7 +1,7 @@
 # Obfuscation Collection
 
 
-## Sci-Hub
+### Sci-Hub
 
 - [Multi-stage Binary Code Obfuscation Using Improved Virtual Machine](https://sci-hub.se/10.1007/978-3-642-24861-0_12)
 
@@ -12,14 +12,14 @@
 - [Enhance Virtual-Machine-Based Code Obfuscation Security Through Dynamic Bytecode Scheduling](https://eprints.lancs.ac.uk/id/eprint/89498/1/DSVMP_C_S.pdf)
 
 ***
-## Github
+### Github
 
 - [rewolf-x86-virtualizer](https://github.com/rwfpl/rewolf-x86-virtualizer)
 - [phantasm-x86-virtualizer ](https://github.com/layerfsd/phantasm-x86-virtualizer)
 - [x86-Code-Virtualizer](https://github.com/NIKJOO/x86-Code-Virtualizer)
 
 ***
-## Blogposts
+### Blogposts
 
 - [VMProtect 2 - Detailed Analysis of the Virtual Machine Architecture](https://back.engineering/17/05/2021/)
 - [VMProtect 2 - Part Two, Complete Static Analysis](https://back.engineering/21/06/2021/)
