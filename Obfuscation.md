@@ -6,6 +6,9 @@
 - [DynOpVm: VM-based Software Obfuscation with Dynamic Opcode Mapping](https://flyer.sis.smu.edu.sg/acns19.pdf)
 - [Enhance Virtual-Machine-Based Code Obfuscation Security Through Dynamic Bytecode Scheduling](https://eprints.lancs.ac.uk/id/eprint/89498/1/DSVMP_C_S.pdf)
 - [Multi-stage Binary Code Obfuscation Using Improved Virtual Machine](https://sci-hub.se/10.1007/978-3-642-24861-0_12)
+- [NISLVMP: Improved Virtual Machine-Based Software Protection](https://sci-hub.se/10.1109/CIS.2013.107)
+- [VMGuards: A Novel Virtual Machine BasedCode Protection System with VM Securityas the First Class Design Concern](https://sci-hub.se/10.3390/app8050771)
+- [Exploiting Dynamic Scheduling for VM-BasedCode Obfuscation](https://sci-hub.se/10.1109/TrustCom.2016.0101)
 
 ***
 ### Github
