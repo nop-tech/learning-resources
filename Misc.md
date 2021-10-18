@@ -5,6 +5,11 @@
 - [PDB Ripper](https://github.com/horsicq/PDBRipper)
 
 ***
+### Documentation
+
+- [DevDocs](https://devdocs.io/)
+
+***
 ### Blogposts
 
 - [Antivirus Event Analysis Cheat Sheet](https://www.nextron-systems.com/2021/08/16/antivirus-event-analysis-cheat-sheet-v1-8-2/) by Nextron Systems
