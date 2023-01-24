@@ -12,7 +12,7 @@
 - [Enhance virtual-machine-based code obfuscation security through dynamic bytecode scheduling](https://www.sciencedirect.com/science/article/pii/S0167404818300270/pdfft?isDTMRedir=true)
 - [VirtSC: Combining Virtualization Obfuscation with Self-Checksumming](https://arxiv.org/pdf/1909.11404.pdf)
 -[VCF: Virtual Code Folding to Enhance
-Virtualization Obfuscation]
+Virtualization Obfuscation]()
 
 ***
 ### Github
