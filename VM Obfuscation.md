@@ -11,8 +11,7 @@
 - [Exploiting Dynamic Scheduling for VM-BasedCode Obfuscation](https://sci-hub.se/10.1109/TrustCom.2016.0101)
 - [Enhance virtual-machine-based code obfuscation security through dynamic bytecode scheduling](https://www.sciencedirect.com/science/article/pii/S0167404818300270/pdfft?isDTMRedir=true)
 - [VirtSC: Combining Virtualization Obfuscation with Self-Checksumming](https://arxiv.org/pdf/1909.11404.pdf)
--[VCF: Virtual Code Folding to Enhance
-Virtualization Obfuscation]()
+- [VCF: Virtual Code Folding to Enhance Virtualization Obfuscation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9151995)
 
 ***
 ### Github
