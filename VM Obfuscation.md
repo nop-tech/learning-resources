@@ -9,6 +9,8 @@
 - [NISLVMP: Improved Virtual Machine-Based Software Protection](https://sci-hub.se/10.1109/CIS.2013.107)
 - [VMGuards: A Novel Virtual Machine BasedCode Protection System with VM Securityas the First Class Design Concern](https://sci-hub.se/10.3390/app8050771)
 - [Exploiting Dynamic Scheduling for VM-BasedCode Obfuscation](https://sci-hub.se/10.1109/TrustCom.2016.0101)
+- [Enhance virtual-machine-based code obfuscation security through dynamic bytecode scheduling](https://www.sciencedirect.com/science/article/pii/S0167404818300270/pdfft?isDTMRedir=true)
+- [VirtSC: Combining Virtualization Obfuscation with Self-Checksumming](https://arxiv.org/pdf/1909.11404.pdf)
 
 ***
 ### Github
